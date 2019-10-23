@@ -1,11 +1,10 @@
 ---
-date: 2019-05-16 23:48:05
+date: 2019-10-23 
 layout: post
-title: Welcome to the desert of the real
+title: 欢迎来到柯诚机械有限公司
 subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
 description: >-
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-  tempor incididunt ut labore et dolore magna aliqua.
+  柯诚机械成立于2015-02-12，经营范围：自动化流水线设备生产、销售；机械设备及配件、金属制品、橡塑制品、机电设备及配件、厨卫设备的生产加工及销售；模具设计、制作；仪器仪表、包装材料、制冷设备及配件批发、零售；建筑安装工程；从事货物及技术的进出口业务（国家禁止和限定进出口的商品和技术除外）。
 image: >-
   https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821647/theme6_qeeojf.jpg
 optimized_image: >-
